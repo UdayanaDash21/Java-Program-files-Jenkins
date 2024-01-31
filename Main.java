@@ -6,5 +6,10 @@ public class Main{
         System.out.println(new Date());
         System.out.println("Hello World");
         System.out.println("Added One more file to Push");
+
+        Student student1 = new Student();
+        student1.sayHello();
+
+
      }
 }
